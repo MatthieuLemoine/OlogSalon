@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Olog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hintip">Adresse IP du serveur</string>
+    <string name="hintmsg">Message à Envoyer</string>
+    <string name="hintport">Port</string>
+    <string name="button_ok">OK</string>
+    <string name="msg_intent_failed">Fail !</string>
+    <string name="msg_camera_framework_bug">Bug ! AuRore doit quitter.</string>
+    <string name="menu_paramUser">Paramètres utilisateur</string>
+    <string name="menu_triArticle">Trier les articles</string>
+    <string name="menu_detailsCommande">Détails de la commande</string>
+    <string name="menu_declareManquant">Déclarer un manquant</string>
+    <string name="menu_finJournee">Fin de journée</string>
+    <string name="menu_newCommande">Demander une nouvelle commande</string>
+    <string name="menu_connexion">Connexion</string>
+    <string name="noJob">Pas de travail</string>
+    <string name="connected">Connecté au serveur : </string>
+    <string name="manquantDeclare">Manquant déclaré !</string>
+    <string name="finJournee">Bonne fin de journée </string>
+</resources>
