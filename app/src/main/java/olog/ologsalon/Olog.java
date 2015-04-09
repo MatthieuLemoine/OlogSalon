@@ -222,8 +222,8 @@ public class Olog extends Activity implements SurfaceHolder.Callback {
         chargementImage( "frisbee", R.drawable.frisbee_200 );
         chargementImage( "porte-clef", R.drawable.porte_clef_200 );
         chargementImage( "pins", R.drawable.pins_200 );
-        chargementImage( "stylo", R.drawable.stylo_200 );
-        chargementImage( "bracelet", R.drawable.bracelet_200 );
+        //chargementImage( "stylo", R.drawable.stylo_200 );
+        //chargementImage( "bracelet", R.drawable.bracelet_200 );
         liste_images=(HashMap<String,Bitmap>) liste_images_initiale.clone();
     }
     public void resetListeImage(){
